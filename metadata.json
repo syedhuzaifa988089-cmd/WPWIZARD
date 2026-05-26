@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Analytics Management System",
+  "description": "A comprehensive hospital management system for patient tracking, analytics, and appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
